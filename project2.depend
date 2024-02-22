@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1708621949 source:f:\oop & ds project\project2\main.cpp
+	"Customer.h"
+	<iostream>
+	"Bank.h"
+
+1708293317 f:\oop & ds project\project2\include\client.h
+	<string>
+	<ctime>
+
+1708621686 f:\oop & ds project\project2\include\bank.h
+	<iostream>
+	"Customer.h"
+	<queue>
+	<list>
+	<iterator>
+
+1708621758 f:\oop & ds project\project2\include\customer.h
+	<string>
+	<ctime>
+	<iostream>
+
+1708621949 source:f:\oop & ds project\doaa mohammed sayed\main.cpp
+	"Customer.h"
+	<iostream>
+	"Bank.h"
+
+1708621758 f:\oop & ds project\doaa mohammed sayed\include\customer.h
+	<string>
+	<ctime>
+	<iostream>
+
+1708622822 f:\oop & ds project\doaa mohammed sayed\include\bank.h
+	<iostream>
+	"Customer.h"
+	<queue>
+	<list>
+	<iterator>
+
